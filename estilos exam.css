@@ -1,15 +1,15 @@
 p{
-    color: blueviolet;
+    color:black;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
-    background-color: aqua;
+    background-color: rgb(199, 209, 206);
+    
 }
 
 
 h1{
     color: black;
-    font-size: xx-large;
+    font-size:larger;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    align-items: center;
 }
